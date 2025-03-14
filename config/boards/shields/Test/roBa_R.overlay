@@ -60,18 +60,6 @@
         automouse-layer = <4>;
         scroll-layers = <5>;
 
-        volume {
-        ayers = <2>;
-        bindings =
-                <&none>,
-                <&none>,
-                <&kp C_VOLUME_UP>,
-                <&kp C_VOLUME_DOWN>;
-
-        wait-ms = <5>;
-        tap-ms = <5>;
-        };
-
     };
 };
 
