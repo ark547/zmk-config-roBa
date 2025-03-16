@@ -2,7 +2,7 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: kumamuk-git
+    - name: ark547
       url-base: https://github.com/ark547
   projects:
     - name: zmk
