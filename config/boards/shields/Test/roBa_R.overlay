@@ -65,9 +65,9 @@
                 layers = <3>;
                 bindings =
                     <&kp A>,
-                    <&kp>,
-                    <&kp>,
-                    <&kp>;
+                    <&none>,
+                    <&none>,
+                    <&none>;
             
                 tick = <10>;
                 wait-ms = <5>;
