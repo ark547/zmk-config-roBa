@@ -61,12 +61,12 @@
         scroll-layers = <5>;
         //snipe-layers = <3>;
         arrows {
-            layers = <3>;
+            layers = <3>;  // 矢印キーを操作するレイヤー
             bindings =
-                <&kp RIGHT_ARROW>,
-                <&kp LEFT_ARROW>,
-                <&kp UP_ARROW>,
-                <&kp DOWN_ARROW>;
+                <&kp KP_RIGHT>,  // サポートされているキーコードに置き換え
+                <&kp KP_LEFT>,
+                <&kp KP_UP>,
+                <&kp KP_DOWN>;
         
             tick = <10>;
             wait-ms = <5>;
