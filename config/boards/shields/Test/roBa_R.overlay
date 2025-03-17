@@ -1,4 +1,4 @@
-&kp UP_ARROW#include "roBa.dtsi"
+#include "roBa.dtsi"
 
 &default_transform {
     col-offset = <6>;
