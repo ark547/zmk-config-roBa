@@ -63,8 +63,8 @@
             arrows {
                 layers = <3>;
                 bindings =
-                    <&kp UP_ARROW>,
                     <&none>,
+                    <&kp RIGHT_ARROW>,
                     <&none>,
                     <&none>;
             
