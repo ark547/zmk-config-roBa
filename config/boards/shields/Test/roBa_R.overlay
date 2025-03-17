@@ -64,8 +64,8 @@
                 layers = <3>;
                 bindings =
                     <&none>,
-                    <&kp LEFT_ARROW>,
-                    <&kp UP_ARROW>,
+                    <&none>,
+                    <&none>,
                     <&none>;
             
                 tick = <10>;
