@@ -63,10 +63,10 @@
             arrows {
                 layers = <3>;
                 bindings =
-                    <&kp RIGHT_ARROW>,
+                    <&none>,
                     <&kp LEFT_ARROW>,
                     <&kp UP_ARROW>,
-                    <&kp DOWN_ARROW>;
+                    <&none>;
             
                 tick = <10>;
                 wait-ms = <5>;
