@@ -1,4 +1,4 @@
-#include "roBa.dtsi"
+&kp UP_ARROW#include "roBa.dtsi"
 
 &default_transform {
     col-offset = <6>;
@@ -63,7 +63,7 @@
             arrows {
                 layers = <3>;
                 bindings =
-                    <&none>,
+                    <&kp UP_ARROW>,
                     <&none>,
                     <&none>,
                     <&none>;
